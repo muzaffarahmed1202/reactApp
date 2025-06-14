@@ -1,6 +1,4 @@
-import React,{useContext} from "react";
-
-import UseCardContext from "./cardContextApi";
+import React from "react";
 
 const ItemDetails = ()=>{
         //const data = useContext(UseCardContext);
